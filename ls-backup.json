@@ -1,0 +1,169 @@
+{
+  "yags-general": {
+    "img": "https://i.gifer.com/7gxM.gif",
+    "title": "startpage",
+    "displayImg": true,
+    "font": "Quicksand",
+    "enableFonts": false
+  },
+  "yags-search": {
+    "placeholder": "Search the web",
+    "engine": "duckduckgo",
+    "forwardingLookup": {
+      "/": "/",
+      "deepl": "https://deepl.com/",
+      "reddit": "https://reddit.com/",
+      "maps": "https://maps.google.com/"
+    }
+  },
+  "yags-theme": {
+    "inverted": false,
+    "color": {
+      "name": "custom",
+      "bg": {
+        "shade": "#1A1A1A",
+        "base": "#212121",
+        "surface": "#282828",
+        "highlight": "#2E2E2E"
+      },
+      "fg": {
+        "shade": "#949494",
+        "base": "#B9B9B9",
+        "surface": "#DEDEDE",
+        "highlight": "#FFFFFF"
+      },
+      "primary": {
+        "bg": "#A17011",
+        "base": "#F0C674",
+        "fg": "#FFFFFF"
+      },
+      "secondary": {
+        "bg": "#56235F",
+        "base": "#AB47BC",
+        "fg": "#D6A6DF"
+      },
+      "palette": {
+        "red": "#E06C75",
+        "green": "#98C379",
+        "yellow": "#E5C07B",
+        "blue": "#61AFEF",
+        "purple": "#C678DD",
+        "cyan": "#56B6C2",
+        "orange": "#FFBB7C"
+      }
+    },
+    "space": {
+      "smallest": "0.125rem",
+      "small": "0.5rem",
+      "medium": "1rem",
+      "large": "1.5rem",
+      "largest": "3rem"
+    }
+  },
+  "yags-surface": {
+    "shadow": {
+      "amount": 1,
+      "blur": 0,
+      "offset": 0,
+      "shadow": "0px 0px 0px #A17011"
+    },
+    "borderRadius": 0,
+    "maxWidth": 1030
+  },
+  "yags-bookmarks": [
+    {
+      "id": "vKmrVmpAzowaF65s",
+      "label": "crypto",
+      "bookmarks": [
+        {
+          "id": "8BHYWYolj4rr1Nnu",
+          "label": "itc",
+          "url": "https://app.intothecryptoverse.com/dashboard"
+        },
+        {
+          "id": "k5PbnvXG1AgKsD7j",
+          "label": "messari",
+          "url": "https://messari.io/"
+        },
+        {
+          "id": "05Q80Y1uwEwidBYN",
+          "label": "st4ck3nws",
+          "url": "https://stacker.news/"
+        }
+      ]
+    },
+    {
+      "id": "2FnPTzUqwqVjB4EZ",
+      "label": "hpserver",
+      "bookmarks": [
+        {
+          "id": "lCBJGfJrf5GV734U",
+          "label": "heimdall",
+          "url": "http://192.168.1.7:50020/"
+        },
+        {
+          "id": "sECxPPRm9T62FtGC",
+          "label": "transmission",
+          "url": "192.168.1.7:9091/transmission/web/"
+        },
+        {
+          "id": "FxhVn0VSn6Us6g3W",
+          "label": "portainer",
+          "url": "https://192.168.1.7:9443/#!/2/docker/dashboard"
+        },
+        {
+          "id": "tagkFvMJ90FZBols",
+          "label": "nc",
+          "url": "http://192.168.1.7:50002/"
+        }
+      ]
+    },
+    {
+      "id": "lNRrp6enwtu41fSd",
+      "label": "pr0dukt1v1tY",
+      "bookmarks": [
+        {
+          "id": "pXfuWLnWfDOFMKES",
+          "label": "zh",
+          "url": "https://www.zerohedge.com/"
+        },
+        {
+          "id": "hkxBdAvIQhhsusTx",
+          "label": "chatGPT",
+          "url": "https://chat.openai.com/?model=text-davinci-002-render"
+        },
+        {
+          "id": "w6sohggHCdCI0mEV",
+          "label": "git",
+          "url": "https://github.com/"
+        },
+        {
+          "id": "fSOsHheEhENPNDzR",
+          "label": "w.alpha",
+          "url": "https://www.wolframalpha.com/"
+        }
+      ]
+    },
+    {
+      "id": "SdlIRWkKrDFogR2U",
+      "label": "mail",
+      "bookmarks": [
+        {
+          "id": "4VYhrkuyYHV4cpL8",
+          "label": "gmail",
+          "url": "https://mail.google.com/mail/u/0/#inbox"
+        },
+        {
+          "id": "1jctHKaoTd3rjpTT",
+          "label": "proton",
+          "url": "https://mail.proton.me/u/0/inbox"
+        },
+        {
+          "id": "HmQEdKg8JjkoF2oB",
+          "label": "cock.li",
+          "url": "https://mail.cock.li/"
+        }
+      ]
+    }
+  ]
+}
